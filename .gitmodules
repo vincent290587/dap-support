@@ -1,0 +1,6 @@
+[submodule "docker-daplink"]
+	path = docker-daplink
+	url = https://github.com/microbit-foundation/docker-daplink.git
+[submodule "DAPLink"]
+	path = DAPLink
+	url = https://github.com/mbedmicro/DAPLink
