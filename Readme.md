@@ -16,3 +16,5 @@ docker run --rm -v .:/home ghcr.io/microbit-foundation/daplink:2022.01.1 ./build
 ```
 
 Then drag and drop the k20dx_if.hex
+
+There is no MSD support if not built for a specific board
